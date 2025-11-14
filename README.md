@@ -47,8 +47,10 @@
 ---
 
 ## 📊 GitHub Stats  
-![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masoodkhanOSU&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masoodkhanOSU&layout=compact&theme=radical&v=2)  
+![Masood's GitHub stats](https://github-readme-stats.vercel.app/api?username=masdk7801&show_icons=true&theme=radical&include_all_commits=true&count_private=true&v=2)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=masdk7801&layout=compact&theme=radical&v=2)
+
 
 ---
 
