@@ -11,38 +11,7 @@
 **Undergraduate Researcher** – OSU Automotive Research Center (Mar 2023 – Present)  
 - Created custom brackets/housing for LiDAR, cameras, and inventors for the CyberCar.  
 - Integrated ZED cameras, GPS, and LiDAR into real-time perception systems.  
-- Collaborated with engineering teams to solve mechanical, electrical, and software issues.  
-
-**Operator** – Columbus Zoo (May 2023 – Aug 2023)  
-- Demonstrated strong leadership in a fast-paced environment.  
-- Directed team operations, improving workflow and guest satisfaction.  
-- Served as a point of contact for staff/visitors, resolving issues smoothly.  
-
-**Math Instructor** – Kumon (Jun 2021 – Jun 2022)  
-- Taught mathematics to students grades K–12.  
-- Adapted instruction to different learning styles and comprehension levels.  
-- Created a productive learning environment focused on engagement and growth.
-
----
-
-## 📂 Projects  
-
-**CyberCar** (Dec 2023 – Jan 2024)  
-- Fabricated custom brackets for LiDAR/camera hardware on self-driving minivan.  
-- Used calipers and mockups to test axle spacing, standoff height, and cable routing.  
-- Selected appropriate aluminum/steel materials for vibration resistance.  
-- Coordinated sensor placement with wiring paths and thermal/EMI considerations.
-
-**ZED Camera with Jetson Orin** (Sep 2023 – Oct 2023)  
-- Deployed ZED stereo camera on NVIDIA Jetson Orin for depth mapping + object tracking.  
-- Used CUDA to accelerate real-time computer vision inference.  
-- Integrated ROS for modular visualization and 3D environment mapping.  
-- Verified accuracy in dynamic testing environments.
-
-**Built a Motorcycle** (Aug 2020 – Sep 2020)  
-- Converted a regular bicycle into a motorized bike using a 2-stroke engine kit.  
-- Mounted engine, aligned chain, secured drive components, and wired ignition.  
-- Tuned throttle system and made mechanical adjustments for reliability and performance.
+- Collaborated with engineering teams to solve mechanical, electrical, and software issues. 
 
 ---
 
